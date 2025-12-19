@@ -1,0 +1,5 @@
+{
+  "name": "TempMail API Scout",
+  "description": "An intelligent directory and integration assistant for free temporary email APIs, powered by Google Gemini. Find services, view specifications, and generate integration code instantly.",
+  "requestFramePermissions": []
+}
